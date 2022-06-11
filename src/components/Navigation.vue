@@ -70,7 +70,7 @@
         <v-btn rounded outlined text href="https://t.me/FixyTech" target="_blank">
            <v-icon class="mr-2"> fa-brands fa-telegram </v-icon>
            
-          <span class="mr-2">Contatenos</span>
+          <span class="mr-2">Contáctenos</span>
         </v-btn>
       </div>
     </v-app-bar>
